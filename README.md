@@ -1,6 +1,16 @@
 # 💫 About Me:
-🛠️ Currently Working On Sales<br>🚀 Transitioning from Sales to Data Scientist<br>🌱 Currently Learning<br>- Enrolled in a Data Science Coding Bootcamp 🚀<br>- Exploring Python for Data Science and Machine Learning 🐍<br>- Hands-on experience with SQL and Database Management 📊<br>- Diving into Data Visualization techniques using Matplotlib and Seaborn 📈<br>- Learning about Machine Learning algorithms and model deployment 🤖
+🚀 I have completed a rigorous 500-hour hands-on training program in Data Science and Machine Learning, covering:
 
+- **Git:** Version Control, Command line, Python for Data Science
+- **Databases:** SQL, MongoDB, APIs & Web Scraping
+- **EDA & Data Cleaning:** Pandas, NumPy, Regex
+- **Big Data & Natural Language Processing** 🌐
+- **Machine Learning:** Scikit Learn, 🤖
+- **Deep Learning:** Keras, TensorFlow
+- **Visualizations:** Power BI, Matplotlib, Seaborn, Dash, Plotly 📊📈
+- **Business Presentations & Communication Skills** 💬
+
+I am eager to apply these skills and knowledge in practical projects and contribute effectively to data-driven initiatives.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/marynabilash) 
